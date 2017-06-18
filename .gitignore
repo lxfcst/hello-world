@@ -1,0 +1,6 @@
+release/
+3rd/
+*.ncb
+*.suo
+*.md
+*.user
